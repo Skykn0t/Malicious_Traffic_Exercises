@@ -2,7 +2,7 @@
 My answers for exercises on Malware Traffic Analysis
 
 ## About This Repository
-As I complete the exercises on Malware-Traffic-Analysis (in no particular order), I will upload my answers to the appropriate folder. There are a variety of exercises with some asking guiding questions and some being a bit more free form. Most exercises will center around their pcap, but I may use some additional tools to further analyze malware and malicious networks.
+As I complete the exercises on Malware-Traffic-Analysis (in no particular order), I will upload my answers to the appropriate folder. There are a variety of exercises with some asking guiding questions and some being a bit more free form. Most exercises will center around their pcap, but I may use some additional tools to further analyze malware and malicious networks. I will complete the exercises as requested as opposed to adding a "walkthrough" type narrative (excepted where required).
 
 ### Completed Exercises
 
